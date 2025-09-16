@@ -13,3 +13,7 @@ It follows a story where a lonely girl asks a passing car for a lift. As chaos u
 
 ---
 
+🛠️ Tools & Technologies
+  - Blender (modeling, animation, particle effects)
+  - Physics & collision simulation
+  - Basic lighting and camera work
